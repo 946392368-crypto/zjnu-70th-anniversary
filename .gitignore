@@ -1,0 +1,9 @@
+﻿# Runtime logs and tunnel artifacts
+*.log
+*.err
+
+# Local temp outputs
+*.out
+
+# Node temp
+node_modules/
